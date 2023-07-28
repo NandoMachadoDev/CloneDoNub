@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Nubank Clone</string>
+    <string name="app_name">Clone do Nubank</string>
 
     <string name="txt_nome_usuario">Olá, </string>
     <string name="txt_cartoes">Meus Cartões</string>
