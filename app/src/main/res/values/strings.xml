@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nubank Clone</string>
+
+    <string name="txt_nome_usuario">Olá, </string>
+    <string name="txt_saldo_conta">Conta \n\n R$ 1.880.813,95</string>
+    <string name="txt_cartoes">Meus Cartões</string>
+    <string name="txt_cartao_credito">Cartão de Crédito</string>
+    <string name="txt_fatura_atual">Fatura atual</string>
+    <string name="txt_dinheiro_fatura">R$ 799.119,99</string>
+    <string name="txt_limite_disponivel">Limite disponível de R$ 29.100.881,01</string>
+    <string name="txt_parcelar_compras">Parcelar Compras</string>
+
+</resources>
